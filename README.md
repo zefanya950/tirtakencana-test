@@ -10,3 +10,4 @@
 - No login or register is required
 - Due to time, it is possible that the android apk can only be run with my localhost, because i have to set the local ip address, Please contact me for demo or if need video demo apps
 - Android application only uses webview so it looks the same as the web
+- Open this repo to see code for flutter (android) https://github.com/zefanya950/tirtakencana_mobile_test
