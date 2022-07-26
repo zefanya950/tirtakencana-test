@@ -8,6 +8,7 @@
 - .env file is not included. but will include env.example that you can copy for .env, you can customise your database name
 - Generate app key using " php artisan key:generate "
 - serve using " php artisan serve --host 0.0.0.0 "
+- You can go to website using 127.0.0.1:8000
 - No login or register is required
 - Due to time, it is possible that the android apk can only be run with my localhost, because i have to set the local ip address, Please contact me for demo or if need video demo apps
 - Android application only uses webview so it looks the same as the web
