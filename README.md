@@ -6,7 +6,8 @@
 - Please run migration 'php artisan migrate' and seeders 'php artisan db:seed' for the database
 - Please run 'composer install' to make sure the program working
 - .env file is not included. but will include env.example that you can copy for .env, you can customise your database name
-- serve using php artisan serve --host 0.0.0.0
+- Generate app key using " php artisan key:generate "
+- serve using " php artisan serve --host 0.0.0.0 "
 - No login or register is required
 - Due to time, it is possible that the android apk can only be run with my localhost, because i have to set the local ip address, Please contact me for demo or if need video demo apps
 - Android application only uses webview so it looks the same as the web
